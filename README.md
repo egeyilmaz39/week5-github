@@ -36,3 +36,10 @@ git clone https://github.com/egeyilmaz39/week5-github.git
 
 cd week5-github
 
+
+## Usage
+
+To use this project, first clone the repository.
+
+Open the terminal in the project folder and read the files.
+
